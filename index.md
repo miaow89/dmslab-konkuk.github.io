@@ -27,7 +27,6 @@ IoT기기에서부터 클라우드 서비스까지의 전 구간에 있어서 �
 ## Contact
 
 ```
-Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
-Office: ETRI 7-563, 218, Gajeong-ro, Yuseong-gu, Daejeon, Republic of Korea
-Email: shsonkorea[at]etri.re.kr or shsongist[at]gmail.com
+Office: 건국대학교 신공학관 1207호
+Email: dkmin21@gmail.com(민덕기교수님) or ndrw5580@gmail.com(전상우석사과정)
 ```
