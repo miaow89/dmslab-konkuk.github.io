@@ -6,7 +6,8 @@ title: Prof.Dukgi Min
 ## Prof.Dukgi Min
 
 ### Papers
-__*A Hierarchical Modeling and Analysis Framework for Availability and Security Quantification of IoT Infrastructures Electronics 2020, 9(1), 155 2020, IF 2.220*__
+__*A Hierarchical Modeling and Analysis Framework for Availability and Security Quantification of IoT Infrastructures Electronics 2020, 9(1), 155 2020, IF 2.220*__ *Electronics 2020, 9(1), 155, 2020, IF 2.220*
+
 
 
 ### contact
