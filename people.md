@@ -8,6 +8,7 @@ title: People
 
 # Current members
 <br/>
+
 ### Research Professor
 
 * Tuan Anh Nguyen
