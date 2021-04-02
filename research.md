@@ -22,20 +22,20 @@ title: Research
 
 ### System
 
-* Cloud Computing
-  * Edge Computing
+#### Cloud Computing
+* Edge Computing
 
-### Security
+#### Security
 
 * Block Chain 
 
 ### Artificial Intelligence
 
-* Reinfocemnet Learning 
-  * Multi Agent Reinforcement Learning
-    * Member : Sangwoo Jeon, Hyungen Cho, HoEun Lee
+#### Reinfocemnet Learning 
+* Multi Agent Reinforcement Learning
+  * Member : Sangwoo Jeon, Hyungen Cho, HoEun Lee
 
-### Natural Language Processing
+#### Natural Language Processing
 * eee
 
 
