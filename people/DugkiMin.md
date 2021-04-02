@@ -4,8 +4,7 @@ title: Prof.Dugki Min
 ---
 
 ## Prof.Dugki Min
-
-![Alt Text](../assets/img/profile_dkmin.gif =150x100)
+<img src="../assets/img/profile_dkmin.gi" alt="Alt Text" style="zoom:50%;" />
 
 
 ### Biography
