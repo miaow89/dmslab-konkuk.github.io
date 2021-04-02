@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
-cover-img: /assets/img/itu-seokho-m4.jpg
+title: Konkuk Univ DMS LAB
+subtitle: Distributed Multimedia Laboratory, Konkuk
+cover-img: /assets/img/server.jpeg
 ---
 
 <br/>
