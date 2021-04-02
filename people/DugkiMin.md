@@ -5,6 +5,8 @@ title: Prof.Dugki Min
 
 ## Prof.Dugki Min
 
+![Alt Text](profile_dkmin.gif)
+
 ### Biography
 Dugki Min received the B.S. degree in industrial engineering from Korea University, in 1986, and the M.S. and Ph.D. degrees in computer science from Michigan State University, in 1995. He is currently a Professor with the Department of Computer Science and Engineering, Konkuk University. His research interests include cloud computing, distributed and parallel processing, big data processing, intelligent processing, software architecture, and modeling and simulation.(Based on document published on 6 January 2019).
 
@@ -16,7 +18,7 @@ __*Reliability and Availability Evaluation for Cloud Data Center Networks Using 
 __*A stochastic reward net-based assessment of reliability, availability and operational cost for a software-defined network infrastructureThe Journal of Supercomputing*__ *vol 75, pages 4657– 4683)2019, IF 2.157*
 
 
-### contact
+### Contact
 Office : Room 385, Engineering Building C
 Lab : Room 1207, New Engineering Building
 HP +82-2-450-33490 
