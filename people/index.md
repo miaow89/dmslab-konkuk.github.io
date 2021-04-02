@@ -6,7 +6,7 @@ title: People
 <br/>
 
 ### Professor
-* [Prof. Dugki Min](./DugkiMin)
+[Prof. Dugki Min](./DugkiMin)
 
 ### Research Professor
 
