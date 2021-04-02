@@ -22,7 +22,7 @@ title: People
 ### M.S Course
 
 * WonJun Seo
-* [Sangwoo Jeon](./people/SangwooJeon.md)
+* [Sangwoo Jeon](../people/SangwooJeon.md)
 * Lukai
 * Hyungen Cho
 * Genyoung Ko
