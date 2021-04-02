@@ -6,7 +6,7 @@ title: Research
 <br/>
 
 
-# 참여과제
+# 🏢참여과제
 
 ### 참여중
 * Project : _**ITRC**_
@@ -18,7 +18,7 @@ title: Research
 * Project: _**Big data-based IT system operation and analysis framework**_
   * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
 
-# 연구 분야
+# 🖱연구 분야
 
 ### System
 
