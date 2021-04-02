@@ -6,7 +6,8 @@ title: Sangwoo Jeon
 ### Sangwoo Jeon
 ![alt_text](https://media-exp1.licdn.com/dms/image/C5103AQHERRVtNUH71A/profile-displayphoto-shrink_200_200/0/1583902313828?e=1622678400&v=beta&t=kLpTkkV61SFlwNfTKcUCz6xLYUL7SKa3SMC_e4cB80k)
 
-*simple, efficient, trendy*
+> *simple, efficient, trendy*
+
 Studying Reinforcement learning
 * contact : ndrw5580@gmail.com
 * [Webpage](https://SangwooJ.github.io/)
