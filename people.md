@@ -15,18 +15,14 @@ title: People
 Dugki Min received the B.S. degree in industrial engineering from Korea University, in 1986, and the M.S. and Ph.D. degrees in computer science from Michigan State University, in 1995. He is currently a Professor with the Department of Computer Science and Engineering, Konkuk University. His research interests include cloud computing, distributed and parallel processing, big data processing, intelligent processing, software architecture, and modeling and simulation.(Based on document published on 6 January 2019).
 
 ### PhD Students
-#### DamSub Lim
-
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation tool, openstack-based cloud API testing.
+* DamSub Lim
 
 ### MS Students
-#### Sangwoo Jeon
-#### Hyungen Cho
-#### WonJun Seo
 
-* Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
+* Sangwoo Jeon
+* Hyungen Cho
+* WonJun Seo
+
 
 <br/>
 
