@@ -10,7 +10,7 @@ title: Sangwoo Jeon
 
 Studying Reinforcement learning
 
-* [email ndrw5580@gmail.com]()
+* ndrw5580@gmail.com
 * [webpage](https://SangwooJ.github.io/)
 * [github](https://github.com/SangwooJ)
 * [linkedIn](https://www.linkedin.com/in/sangwoo-jeon-811978181/)
