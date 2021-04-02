@@ -6,36 +6,30 @@ title: People
 <br/>
 
 
-# Prof.Min
+# Current members
 
-### Electronics and Telecommunications Research Institute
-#### Senior Researcher, 2014 to Present
+### Prof. Dugki Min
+#### Professor at Dept. of Computer Science and Engineering, Konkuk University
 
-* Project (ongoing): _**Multi-cloud service common framework**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+##### Biography
+Dugki Min received the B.S. degree in industrial engineering from Korea University, in 1986, and the M.S. and Ph.D. degrees in computer science from Michigan State University, in 1995. He is currently a Professor with the Department of Computer Science and Engineering, Konkuk University. His research interests include cloud computing, distributed and parallel processing, big data processing, intelligent processing, software architecture, and modeling and simulation.(Based on document published on 6 January 2019).
 
-### TestMidas, Inc.
-#### Senior Researcher,	2013 to 2014
+### PhD Students
+#### DamSub Lim
 
 * Project: _**An open source-based testing tool for Cloud OS validation**_
   * Role: design and development of openstack validation tool, openstack-based cloud API testing.
 
-### Gwangju Institute of Science and Technology (GIST)
-#### Ph.D. Student, 2009 to 2012
+### MS Students
+#### Sangwoo Jeon
+#### Hyungen Cho
+#### WonJun Seo
 
 * Project: _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
   * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
 
 <br/>
 
-# PhD course
-
-# MS course
-<br/>
 
 # Alumni
 
