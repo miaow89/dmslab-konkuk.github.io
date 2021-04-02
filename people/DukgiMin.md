@@ -18,6 +18,9 @@ __*A stochastic reward net-based assessment of reliability, availability and ope
 
 ### contact
 Office : Room 385, Engineering Building C
+
 Lab : Room 1207, New Engineering Building
+
 HP +82-2-450-33490 
+
 E-Mail: dkmin@konkuk.ac.kr
