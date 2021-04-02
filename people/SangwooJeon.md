@@ -13,7 +13,6 @@ contact : ndrw5580@gmail.com
 
 "*simple, efficient, trendy*"
 
-* ndrw5580@gmail.com
 * [webpage](https://SangwooJ.github.io/)
 * [github](https://github.com/SangwooJ)
 * [linkedIn](https://www.linkedin.com/in/sangwoo-jeon-811978181/)
