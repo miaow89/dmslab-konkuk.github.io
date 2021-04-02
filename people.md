@@ -41,5 +41,4 @@ title: People
 ### Alumni
 
 * ChaeYoon Lee
-* Pukyong National University Scholarship for Top Student (2 times)	2005–2006
-  * A financial support that fully covers a BS semester, given to a student who achieved the highest GPA in a semester.
+* MinKyu Cho
