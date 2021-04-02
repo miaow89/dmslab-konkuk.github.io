@@ -4,7 +4,7 @@ title: Prof.Dugki Min
 ---
 
 ## Prof.Dugki Min
-![alt_text](../assets/img/profile_dkmin.png)
+![alt_text](../assets/img/profile_dkmin.PNG)
 
 
 ### Biography
