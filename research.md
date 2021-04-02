@@ -12,7 +12,7 @@ title: Research
 * Project : _**ITRC**_
   * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
 * Project: _**대학중점연구소 스마트 도심 항공 교통(Urban Air Mobility)을 위한 인공지능 디지털 트윈 기술 연구**_
-* Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
+  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
 
 ### 종료
 * Project: _**Big data-based IT system operation and analysis framework**_
