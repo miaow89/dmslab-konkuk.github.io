@@ -20,7 +20,7 @@ title: Research
 
 # 연구 분야
 
-## System
+## * System
 
 #### Cloud Computing
 * Edge Computing
