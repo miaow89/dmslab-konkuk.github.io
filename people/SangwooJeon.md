@@ -9,6 +9,7 @@ title: Sangwoo Jeon
 "*simple, efficient, trendy*"
 
 Studying Reinforcement learning
+
 * [email ndrw5580@gmail.com]()
 * [webpage](https://SangwooJ.github.io/)
 * [github](https://github.com/SangwooJ)
