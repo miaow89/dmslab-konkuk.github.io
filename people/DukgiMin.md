@@ -5,10 +5,6 @@ title: Prof.Dukgi Min
 
 ## Prof.Dukgi Min
 
-### Publication Topics
-digital simulation,Big Data,IEEE standards,Internet,application program interfaces,cloud computing,computer centres,cooperative communication,fault trees,hypermedia markup languages,intelligent transportation systems,interactive television,middleware,open systems,probability,quality of service,road traffic,software packages,software tools,stochastic processes,user interfaces,vehicular ad hoc networks,Web services,wireless sensor networks,control engineering computing
-View More
-
 ### Biography
 Dugki Min received the B.S. degree in industrial engineering from Korea University, in 1986, and the M.S. and Ph.D. degrees in computer science from Michigan State University, in 1995. He is currently a Professor with the Department of Computer Science and Engineering, Konkuk University. His research interests include cloud computing, distributed and parallel processing, big data processing, intelligent processing, software architecture, and modeling and simulation.(Based on document published on 6 January 2019).
 
