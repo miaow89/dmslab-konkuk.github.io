@@ -8,24 +8,34 @@ title: Research
 
 ## 참여과제
 
-* Project (ongoing): _**Multi-cloud service common framework**_
+#### 참여중
+* Project : _**ITRC**_
   * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
-* Project: _**Heterogeneous multi-cloud service brokerage platform**_
+* Project: _**대학중점연구소 스마트 도심 항공 교통(Urban Air Mobility, 이하 UAM)을 위한 인공지능 디지털 트윈 기술 연구
   * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
+
+#### 종료
 * Project: _**Big data-based IT system operation and analysis framework**_
   * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
 
 ## 연구 분야
-#### System
 
-* Project: _**An open source-based testing tool for Cloud OS validation**_
-  * Role: design and development of openstack validation
+### **System**
+
+#### Cloud Computing
+
+#### Security
+* Block Chain 
 
 
-#### Artificial Intelligence
+### Artificial Intelligence
 
-* Team : Reinfocemnet Learning _**Relaxed-criteria concurrent SLA negotiations for bolstering dynamic provisioning of personalized Cloud resources**_
-  * Role: researches for bargaining-based cloud SLA establishment and cloud resource management
+#### Reinfocemnet Learning 
+* Multi Agent Reinforcement Learning
+ * Member : Sangwoo Jeon, Hyungen Cho, HoEun Lee
+
+#### Natural Language Processing
+* eee
 
 
 
