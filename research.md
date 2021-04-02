@@ -9,14 +9,16 @@ title: Research
 # 🏢참여과제
 
 ### 참여중
-* Project : _**ITRC**_
-  * Role: design and development of multi-cloud platform, open-source based project management, standardization activity
+* Project : _**지능정보서비스를 위한 고성능 하이브리드 클라우드 컴퓨팅 기술 개발 및 인력양성**_
+  * 가상화 기술 기반 지능형 분산 포그-클라우드 서비스 플랫폼 자동 구축 빛 운영관리 기술 개발 
+  * 효율적인 가상클러스터 디스크 이미지 자동 프로비저닝기술 및 분산 Cloud 스토리지 기술 개발
 * Project: _**대학중점연구소 스마트 도심 항공 교통(Urban Air Mobility)을 위한 인공지능 디지털 트윈 기술 연구**_
-  * Role: design and development of a cloud service brokerage platform, analysis of open-source projects, operation of openstack cloud testbeds, standardization activity
+  * UAM-DT 분산 플랫폼 및 멀티 에이전트 분산 인공지능 기술 개발
+  * Offloading/Caching 기술 기반의 Hierarchical Mutli-Agent Intelligent Fog Platform 기술 개발
 
 ### 종료
-* Project: _**Big data-based IT system operation and analysis framework**_
-  * Role: design of a system for a big-data analytics-driven resource management in virtual EPC (NFV-based LTE core network)
+* Project: _**도시 교통 문제 개선을 위한 클라우드 기반 트래픽 예측 시뮬레이션 SW 기술 개발 (2017~2019)**_
+  * 도심의 교통 혼잡 문제를 완화시키기 위하여, 공공/민간 교통정보 데이터를 통합, 활용하여 도심의 트래픽을 동적으로 시뮬레이션하고 예측하는 GPU기반의 병렬 / 분산  트래픽 시뮬레이션 기술 개발
 
 # 🖱연구 분야
 
