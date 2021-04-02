@@ -5,9 +5,7 @@ title: People
 
 <br/>
 
-
-# Current members
-<br/>
+### [Prof. Dugki Min](./DugkiMin)
 
 ### Research Professor
 
