@@ -12,81 +12,59 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 ### Journal Papers
 
 - A hierarchical modeling and analysis framework for availability and security quantification of IoT infrastructures, "Nguyen TA, Min D, Choi E.", Electron,  2020;9(1):1-30. https://doi.org/10.3390/electronics9010155
+
 - A stochastic reward net-based assessment of reliability, availability and operational cost for a software-defined network infrastructure, "Nguyen TA, Han K, Min D, Choi E, Thang TD, Choi YJ.", J Supercomput,  2019;75(8):4657-4683. https://doi.org/10.1007/s11227-018-2677-y
+
 - Reliability and availability evaluation for cloud data center networks using hierarchical models, "Nguyen TA, Min D, Choi E, Tran TD.", IEEE Access,  2019;7:9273-9313. https://doi.org/10.1109/ACCESS.2019.2891282
+
 - Model-based sensitivity of a disaster tolerant active-active GENESIS cloud system, "Nguyen TA, Rui X, Lim D, et al.", Lect Notes Inst Comput Sci Soc Telecommun Eng LNICST,  2018;221:228-241. https://doi.org/10.1007/978-3-319-74176-5_20
+
 - A scalable network area storage with virtualization: Modelling and evaluation using stochastic reward nets, "Zou L, Rui X, Anh Nguyen T, et al.", ACM Int Conf Proceeding Ser,  Published online 2018:225-233. https://doi.org/10.1145/3209914.3209918
+
 - A Comprehensive Evaluation of Availability and Operational Cost for a Virtualized Server System Using Stochastic Reward Nets, "Nguyen TA, Min D, Choi E.", Vol 74. Springer US; 2018. https://doi.org/10.1007/s11227-017-2127-2
+
 - Reliability and Availability Modeling of Fog Computing based IoT System, "Nguyen TA, Min D, Choi E.", 5th Int Conf Big Data Appl Serv (BIGDAS 2017),  Published online 2017.
+
 - Efficient Spatial-Temporal RDF Data Processing in Distributed Semantic Web Environment, "Shin I, Min D.", J Inf Technol Archit,  2017;14(4):367-373.
+
 - HIM-PRS: A patent recommendation system based on hierarchical index-based mapreduce framework, "Rui X, Min D.", Adv Comput Sci Ubiquitous Comput Lect Notes Electr Eng,  2017;421:843-848. https://doi.org/10.1007/978-981-10-3023-9_130
+
 - An evaluation of availability, reliability and power consumption for a SDN infrastructure using stochastic reward net, "Han K, Nguyen TA, Min D, Choi EM.", Adv Comput Sci Ubiquitous Comput Lect Notes Electr Eng,  2017;421:637-648. https://doi.org/10.1007/978-981-10-3023-9_98
+
 - Survey on CPN applications in cloud computing, "Igorevich RR, Min D.", Adv Comput Sci Ubiquitous Comput Lect Notes Electr Eng,  2017;421:894-899. https://doi.org/10.1007/978-981-10-3023-9_139
+
 - Research on Design of DDS-based Conventional Railway Signal Data Specification for Real-time Railway Safety Monitoring and Control, "Yunjung P, Damsub L, Dugki M, Sang Ahm K.", J Korea Inst Inf Commun Eng,  2016;20(4):739-746.
+
 - Smart IoT Gateway Platform and Use Case, "Lim D, Jung H, Min K, Igorevich RR, Kim S, Han K.", J Inf Technol Archit,  2016;13(4):673-683.
+
 - Feature Selection for Automatic Categorization of Patent Documents, "Don S, Min D.", Indian J Sci Technol,  2016;9(37). https://doi.org/10.17485/ijst/2016/v9i37/98974
+
 - Breast Skin Line Segmentation on Digital Mammogram using Fractal Approach, "Don S, Min D.", Indian J Sci Technol,  2016;9(31). https://doi.org/10.17485/ijst/2016/v9i31/85420
+
 - Vision-based reduction of gyro drift for intelligent vehicles, "Kyung MG, Nguyen DK, Kang T, Min D, Lee JO.", J Inst Control Robot Syst,  2015;21(7):627-633. https://doi.org/10.5302/J.ICROS.2015.15.0038
+
 - A comprehensive sensitivity analysis of a data center network with server virtualization for business continuity, "Nguyen TA, Min D, Park JS.", Math Probl Eng,  2015;2015. https://doi.org/10.1155/2015/521289
+
 - A ROHC Engine For Improving Network Transmission Efficiency in Cloud Environment, "Lim D, Kim S, Min D.", J Inf Technol Archit,  2015;12(4):677-688.
+
 - Host Auto Installation Method for Constructing Heterogeneous Distributed Platforms, "Kim B, Ku M, Cho N, Xuhua R, Min D.", J Inf Technol Archit,  2015;12(2):259-270.
+
 - Reconfigurable Intelligent Control Architecture of a Small-Scale Unmanned Helicopter, "Kaliappan VK, Yong H, Dugki M, Choi E, Budiyono A.", J Aerosp Eng,  2014;27(4):04014001. https://doi.org/10.1061/(asce)as.1943-5525.0000292
+
 - Research on Service-Level Integration of ETSI M2M Platform with Heterogeneous Web Applications based on WSDL 2.0, "Park Y, Min D.", J Korea Inst Inf Commun Eng,  2013;17(8):1842-1850. https://doi.org/10.6109/jkiice.2013.17.8.1842
+
 - Publicly Available Visualization System of Environmental Remote Sensing Information, "Igorevich RR, Yang Dam E, Dugki M, Mu Wook P, Ki Ho H.", Int J Adv Inf Sci Serv Sci,  2013;5(1):40-50. https://doi.org/10.4156/aiss.vol5.issue1.6
+
 - Stochastic Reward Net-based Modeling Approach for Availability Quantification of Data Center Systems, "Tuan AN, Min D, Eunmi C.", Intech,  2013;32(July):137-144. http://www.intechopen.com/books/trends-in-telecommunications-technologies/gps-total-electron-content-tec- prediction-at-ionosphere-layer-over-the-equatorial-region%0AInTec%0Ahttp://www.asociatiamhc.ro/wp-content/uploads/2013/11/Guide-to-Hydropower.pdf
+
 - An awareness approach to analyze ECG streaming data, "Don S, Chung D, Choi E, Min D.", J Med Syst,  2013;37(2). https://doi.org/10.1007/s10916-012-9901-8
+
 - Adaption and Assessment of ETSI M2M Standard in Smart Home Environments, "Park Y, Hyuk W, Hyung-Goo P, Dugki M.", J Chem Inf Model,  2013;53(9):1689-1699.
+
 - Analysis of electrocardiogram signals of arrhythmia and ischemia using fractal and statistical features, "Don S, Chung D, Min D, Choi E.", J Mech Med Biol,  2013;13(1):1-15. https://doi.org/10.1142/S0219519413500085
+
 - Hardware-In-the-Loop simulation platform for the design, testing and validation of autonomous control system for unmanned underwater vehicle, "Kaliappan VK, Budiyono A, Min D, Muljowidodo K, Nugroho SA.", Indian J Mar Sci,  2012;41(6):575-580. https://doi.org/10.21535/ProICIUS.2011.v7.380
 
-
-
-#### Domestic
-
-- **Seokho Son** and Dong-Jae Kang, _“Development of a Testing Tool to Validate Integrity of a Constructed Cloud System based on OpenStack,”_ KIISE Transactions on Computing Practices, Vol. 20, No. 12, pp. 658-663, Dec. 2014.
-
-- **Seokho Son**, Gihun Jung, and Sung Chan Jun, _“A Variable Scheme to Reduce SLA Violations in a Cloud Operating Distributed Data Centers,”_ Journal of Korea Information Science Society: Computing Practices and Letters, vol.18, no.11, pp. 818-822, Nov. 2012.
-
-- JongWon Kim, Seokhee Lee, and **Seokho Son**, _“QoE Framework for Haptic-based 3D Network Virtual Environment,”_ Journal of Korea Information Science Society, vol. 14, no. 7, pp. 646–656, Dec. 2008.
-
-
-### Conference Papers
-
-#### International
-
-- **Seokho Son**, Dong-Jae Kang, and Jin-Mee Kim, _“Design considerations to realize automated SLA negotiations in a multi-Cloud brokerage system,”_ In Proc. of 2014 International Conference on. IEEE Collaborative Computing: Networking, Applications and Worksharing (CollaborateCom), pp. 466-468, Miami, USA, Nov 2014.
-
-- **Seokho Son** and Sung Chan Jun, _"Negotiation-based Flexible SLA Establishment with SLA-driven Resource Allocation in Cloud Computing,"_ In Proc. of the IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing (CCGrid 2013 Doctoral Symposium), pp. 168-171, Delft, The Nederlands, May 2013. (Microsoft Academic Search-Field Rank: 14/203)
-
-- **Seokho Son**, Gihun Jung, and Sung Chan Jun, _“A SLA-based Cloud Computing Framework: Workload and Location Aware Resource Allocation to Distributed Data Centers in a Cloud,”_ In Proc. The 2012 International Conference on Parallel and Distributed Processing Techniques and Applications (PDPTA2012), Las Vegas, USA, July 2012. (Microsoft Academic Search-Field Rank: 38/203)
-
-- **Seokho Son** and Kwang Mong Sim, _“A Negotiation Mechanism that Facilitates the Price-Timeslot-QoS Negotiation for Establishing SLAs of Cloud Service Reservation,”_ In Proc. Networked Digital Technologies, Communications in Computer and Information Science (CCIS), International Conference on Networked Digital Technologies (NDT 2011), vol. 136, no. 8, pp. 432–446, Macau, 2011.
-
-- **Seokho Son** and Kwang Mong Sim, _“An Adaptive Tradeoff Algorithm for Multi-issue SLA Negotiation,”_ In Proc. Grid and Distributed Computing, Control and Automation, Communications in Computer and Information Science (CCIS), International Conference on Grid and Distributed Computing (GDC 2010), vol. 121, pp. 32¬41, Jeju, Republic of Korea, 2011.
-
-- **Seokho Son**, and Kwang Mong Sim, _“A Multi-issue Negotiation Mechanism for Cloud Service Reservation,”_ In Proc. International Conference on Cloud Computing & Virtualization (CCV 2010), Singapore, May 2010.
-
-- **Seokho Son** and Kwang Mong Sim, _“Relaxed Time Slot Negotiation for Grid Resource Allocation,”_ In Proc. Grid and Distributed Computing, Control and Automation, Communications in Computer and Information Science (CCIS), International Conference on Grid and Distributed Computing (GDC 2009), vol. 63, pp. 25–32, Jeju, Republic of Korea, 2009.
-
-- **Seokho Son**, Vinay Ramachandra, and JongWon Kim, _“Networked Haptic Virtual Environments Supporting Ultra High Resolution Display,”_ In Proc. the 11th IEEE International Conference on High Performance Computing and Communications (HPCC09), pp. 579–584, Seoul, Republic of Korea, June 2009.
-
-- **Seokho Son**, Seokhee Lee, and JongWon Kim, _“Networked Haptic Virtual Environments Supporting Ultra High Resolution Display,”_ In Proc. SPIE, Multimedia Systems and Applications X, SPIE International Symposium on Information Technologies and Communications (ITCom 2007), vol. 6777, Boston, USA, Sept. 2007.
-
-#### Domestic
-
-- **Seokho Son**, _“Workload-aware adaptive Cloud SLA establishment,”_ In Proc. Korea Computer Congress 2015 (Korea Information Science Society), pp. 1702– 1704, June 2015.
-
-- **Seokho Son** and Dong-Jae Gang, _“An open source-based testing tool for Cloud OS validation,”_ In Proc. Korea Computer Congress 2014 (Korea Information Science Society), pp. 36–38, June 2014. (Best paper presentation award)
-
-- **Seokho Son**, Gihun Jung, and Sung Chan Jun, _“A SLA negotiation mechanism to facilitate load balancing in a cloud infrastructure consisting of geographically distributed data centers,”_ In Proc. Korea Computer Congress 2012 (Korea Information Science Society), vol.39, no.1A, pp. 239–241, June 2012. (Best paper presentation award)
-
-- **Seokho Son** and JongWon Kim, _“Haptic Collaboration System over High Resolution Display and Performance Modeling of a Visualization System,”_ In Proc. Human Computer Interaction in Korea (HCI 2009), Pyeongchang, Republic of Korea, 2009.
-
-- **Seokho Son**, JunHee Hong, ChangHyeok Bae, Sung Chan Jun, and JongWon Kim, _“Interactive Scientific Visualization of High-resolution Brain Imagery over Networked Tiled Display,”_ In Proc. Korea e-Science All Hands Meeting (AHM 2008), Daejeon, Republic of Korea, 2008.
-
-- **Seokho Son**, Seokhee Lee, and JongWon Kim, _“Haptic Collaboration System over High Resolution Tiled-display with QoE,”_ In Proc. Human Computer Interaction in Korea (HCI 2008), Pyeongchang, Republic of Korea, 2008.
-
-- **Seokho Son**, Seokhee Lee, and JongWon Kim, _“Network-adaptive Control of Object Stiffness for Networked Haptic Collaboration System,”_ In Proc. Human Computer Interaction in Korea (HCI 2007), Pyeongchang, Republic of Korea, 2007.
 
 
 ### Book Chapter
