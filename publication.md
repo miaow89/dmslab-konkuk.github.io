@@ -68,46 +68,41 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 # Patents
 
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Seung-Jo Bae, Byenong-Thaek Oh, Kure-Chel Lee, Young-Woo Jung,	_"APPARATUS AND METHOD FOR MULTI-CLOUD SERVICE PLATFORM,"_ Korea Patent:	20-0046740 (applied).
+- 가상 머신 인프라스트럭처 구축 방법 및 이를 이용하는 장치, METHOD FOR ESTABLISHING VIRTUAL MACHINE INFRASTRUCTURE AND APPRATUS USING THE SAME(2021.05.10, 1022520500000)
 
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Seung-Jo Bae, Byenong-Thaek Oh, Kure-Chel Lee, Young-Woo Jung,	_"CLOUD COMPUTING-BASED SIMULATION APPARATUS AND METHOD FOR OPERATING THE SAME,"_ US Patent:	16-789234 (applied).
+-블록체인 기반 파일 수정 증거 저장 방법 및 이를 이용하는 장치, METHOD FOR STORING BLOCKCHAIN BASED FILE MODIFICATION EVIDENCE AND APPRATUS USING THE SAME(2021.03.16, 1022307640000)
 
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Seung-Jo Bae, Byenong-Thaek Oh, Kure-Chel Lee, Young-Woo Jung,	_"APPARATUS AND METHOD FOR CLOUD COMPUTION BASED SIMULATION,"_ Korea Patent:	19-0016906 (applied).
+- 분산 플랫폼의 자동 구축 방법, METHOD FOR AUTOMATICALLY CONSTRUCTING DISTRIBUTED PLATFORM(2021.03.08, 1022271850000)
 
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS FOR PROVIDING CLOUD SERVICE BASED ON CLOUD SERVICE BROKERAGE AND METHOD THEREOF,"_ US Patent:	16-168683 (applied).
+- 저장 공간을 최소화하는 영상 관리 방법 및 이를 수행하는 사용자 디바이스, VIDEO MANAGEMENT METHOD FOR MINIMIZING STORAGE SPACE AND USER DEVICE FOR PERFORMING THE SAME(2021.01.06, 1022020990000)
 
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"METHOD AND　APPRATUS FOR PROVIDING A CLOUD SERVICE BASED ON CLOUD SERVICE BROKERAGE,"_ Korea Patent:	17-0141487 (applied).
+- 지식기반 질문 응답 방법 및 장치, METHOD AND APPARATUS FOR ANSWERING KNOWLEDGE-BASED QUESTION(2020.12.17, 1021948370000)
 
-- Hyun-Hwa Choi, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, _"APPARATUS AND METHOD FOR FILE SHARING BETWEEN APPLICATIONS,"_ Korea Patent:	17-0028954 (applied).
+- 결함 처리를 위한 확장 가능한 네트워크 연결 저장 장치 및 방법, SCALABLE NETWORK CONNECTED STORAGE APPARATUS AND METHOD FOR HANDLING FAULT(2020.09.02, 1021536220000)
 
-- Hyun-Hwa Choi, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, _"APPARATUS AND METHOD FOR FILE SHARING BETWEEN APPLICATIONS,"_ US Patent:	16-216401 (applied).
+- 유사성 판단 방법 및 그 장치, METHOD FOR DETERMINING SIMILARITY AND APPARATUS USING THE SAME(2020.01.30, 1020736860000)
 
-- Hyun-Hwa Choi, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, _"METHOD FOR EXPENDING PERFORMANCE OF STREAMING SERVICE AND APPARATUS THEREFOR,"_ Korea Patent No.	10-2013579.
+- 클라우드 서비스에서 IoT 디바이스들이 포함된 네트워크의 보안 향상 방법 및 이를 이용하는 장치, METHOD FOR IMPROVING SECURITY OF NETWORK WITH IOT DEVICES IN CLOUD SERVICES AND APPARATUS USING THE SAME(2019.09.11, 1020228550000)
 
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPRATUS FOR PROVIDING A CLOUD BROKERAGE SERVICE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ US Patent:	16-007821 (applied).
+- 클라우드 서비스에서의 IoT 디바이스 온보딩 방법 및 이를 이용하는 장치, METHOD FOR ONBOARDING IOT DEVICES IN CLOUD SERVICES AND APPARATUS USING THE SAME(2019.09.09, 1020218370000)
 
-- **Seok-Ho Son**, Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPRATUS FOR PROVIDING A CLOUD BROKERAGE SERVICE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ Korea Patent:	17-0075908 (applied).
+- 읽기 및 쓰기가 가능한 가상 디스크의 병합 마운팅을 통한 가상 클러스터 구축 방법 및 장치, METHOD AND APPARATUS FOR ESTABLISHING VIRTUAL CLUSTER BY MOUNTING OF READABLE AND WRITABLE VIRTUAL DISKS(2019.09.03, 1020197990000)
 
-- Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS FOR PROVIDING CLOUD SERVICE USING CLOUD SERVICE BROKERAGE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ US Patent:	16-007958 (applied).
+- 가상화를 위한 확장 가능한 네트워크 연결 저장 장치 및 방법, SCALABLE NETWORK CONNECTED STORAGE APPARATUS AND METHOD FOR VIRTUALIZATION(2019.08.13, 1020126040000)
 
-- Myeong-Hoon Oh, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Song-Woo Sok, **Seok-Ho Son**, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPRATUS FOR PROVIDING A CLOUD SERVICE USING CLOUD SERVICE BROKERAGE BASED ON MULTIPLE CLOUDS AND METHOD THEREOF,"_ Korea Patent: 17-0075923 (applied).
+- 모델링 언어를 이용한 서비스 인프라스트럭처 생성 방법 및 그 장치, METHOD FOR GENERATING SERVICE INFRASTRUCTURE USING MODELING LANGUAGE AND APPARATUS THEREFOR(2019.07.02, 1019976290000)
 
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS AND METHOD FOR VALIDATING SERVICE CONTROL STATUS,"_ US Patent:	15-803620 (applied).
+- 데이터 전송 장치 및 그 방법, APPARATUS AND METHOD FOR TRANSMITTING FILE DATA(2019.06.17, 1019920610000)
+- 가상 클러스터 구동 시간 스케줄링 방법 및 장치, METHOD AND APPARATUS FOR SCHEDULING OPERATING TIME OF VIRTUAL CLUSTER(2019.02.01, 1019472210000)
 
-- **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Sun-Wook Kim, Myeong-Hoon Oh, Byenong-Thaek Oh, Young-Woo Jung, Hyun-Hwa Choi,	_"APPARATUS AND METHOD FOR CHECKING COMPLETION STATUS OF SERVICE CONTROL,"_ Korea Patent: 17-0028363 (applied).
 
-- **Seok Ho Son**, Hea Sun Own, _“	METHOD AND APPARATUS FOR MONITORING FAULT OF SYSTEM,”_ Korean Patent: No.16-0032012 (applied).
 
-- **Seok-Ho Son**, Dong-Jae Kang, Jin-Mee Kim, Hyun-Joo Bae, Ji-Hyun Lee,	_"CLOUD SERVICE BROKER APPARATUS AND METHOD THEREOF,"_ US Patent: 14-974704 (applied).
-
-- **Seok-Ho Son**, Dong-Jae Kang, Jin-Mee Kim, Hyun-Joo Bae, Ji-Hyun Lee,	_"CLOUD SERVICE BROKER AND METHOD THEREOF,"_ Korea Patent: No.15-0110184 (applied).
-
-- Hyun-Joo Bae, Dong-Jae Kang, Jin-Mee Kim, **Seokho Son**, Ji-Hyun Lee, _“RESOURCE SERVICES BROKERAGE PROVIDING APPARATUS FOR PROVIDING USER DEFINED CLOUD SERVICE AND METHOD THEREFOR,”_ Korea Patent: No.15-0094737 (applied).
-
-- Ji-Hyun Lee, Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seokho Son**, _“	METHOD AND APPARATUS FOR BROKERING CLOUD SERVICES,”_ Korea Patent: No.10-1779964.
-
-- Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seok-Ho Son**, Ji-Hyun Lee,	_"CLOUD SERVICE BROKERAGE METHOD AND APPARATUS USING SERVICE IMAGE STORE,"_ US Patent: 15-010420 (applied).
-
-- Dong-Jae Kang, Won-Yong Kim, Jin-Mee Kim, Hyun-Joo Bae, **Seok-Ho Son**, Ji-Hyun Lee,	_"METHOD FOR BROKERING CLOUD SERVICE USING SERVICE IMAGE STORE AND APPARATUS USING THE SAME,"_ Korea Patent: 15-0084496 (applied).
-
-- Jong Won Kim, Seokhee Lee, and **Seokho Son**, _“Apparatus and method for implementing haptic-based networked virtual environment which supports high-resolution tiled display,”_ US Patent No. US9041621, May 26, 2015.
+()
+()
+()
+()
+()
+()
+()
+()
+()
