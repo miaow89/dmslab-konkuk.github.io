@@ -66,12 +66,6 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 - Hardware-In-the-Loop simulation platform for the design, testing and validation of autonomous control system for unmanned underwater vehicle, "Kaliappan VK, Budiyono A, Min D, Muljowidodo K, Nugroho SA.", Indian J Mar Sci,  2012;41(6):575-580. https://doi.org/10.21535/ProICIUS.2011.v7.380
 
 
-
-### Book Chapter
-
-- **Seokho Son**, JunHee Hong, ChangHyeok Bae, Sung Chan Jun, and JongWon Kim, _“Interactive Scientific Visualization of High-resolution Brain Imagery Over Networked Tiled Display,”_ Future Application and Middleware Technology on e-Science, pp. 125–136, 2010.
-
-
 # Patents
 
 - **Seok-Ho Son**, Dong-Jae Kang, Byoung-Seob Kim, Seung-Jo Bae, Byenong-Thaek Oh, Kure-Chel Lee, Young-Woo Jung,	_"APPARATUS AND METHOD FOR MULTI-CLOUD SERVICE PLATFORM,"_ Korea Patent:	20-0046740 (applied).
