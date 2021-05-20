@@ -134,15 +134,18 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 - 정보 관리 시스템, SYSTEM FOR MANAGEMENT OF INFORMATION(2016.01.21, 1015892810000)
 
+- 인덱스 기반 데이터 처리 시스템, INDEX-BASED DATA PROCESS SYSTEM(2015.11.04, 1015678610000)
 
+- 가중치 기반 데이터 랭킹 산출 방법, METHOD FOR DATA RANK BASED ON WEIGHT(2015.11.04, 1015678700000)
 
+- 가상머신 상태 진단 시스템, VIRTUAL MACHINE STATE ANALYZING SYSTEM(2015.11.04, 1015678790000)
 
+- 심전도 신호 분류 시스템, SYSTEM FOR CLASSIFICATION ELECTROCARDIOGRAM SIGNALS(2015.04.02, 1015105220000)
 
+- 비행경로 설정방법 및 비행체, Method for setting flight path and flying object(2012.09.11, 1011836590000)
 
+- 3차원 가상 공간을 기반으로 원격 제어를 수행하기 위한 방법, 단말 장치 및 컴퓨터 판독 가능한 기록 매체, METHOD, TERMINAL AND COMPUTER-READABLE RECORDING MEDIUM FOR REMOTE CONTROL ON THE BASIS OF 3D VIRTUAL SPACE(2012.06.28, 1011627030000)
 
-()
-()
-()
-()
-()
-()
+- 비행체의 고장 검증 방법 및 자체 고장 검증을 수행하는 비행체, Detecting method of flight error and flying object for self-detecting error(2012.05.31, 1011539670000)
+
+- 그래프 컷 기법을 이용하여 맘모그램(Mammogram) 영상을 분할하여 유방 조직의 밀집도를 측정하는 방법, 시스템 및 컴퓨터 판독 가능한 기록 매체, METHOD, SYSTEM AND COMPUTER-READABLE RECORDING MEDIUM FOR MEASURING DENSITY OF BREAST BY APPLYING GRAPH CUT ALGORITHM TO MAMMOGRAM(2011.11.02, 1010816030000)
